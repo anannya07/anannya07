@@ -1,6 +1,8 @@
 ![Aspiring Full Stack web developer](https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg)
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-### Hi there 👋, my name is Anannya
+
+###  Hi there 👋, my name is Anannya
+
 #### **Aspiring Full Stack web developer**
 <p><em>Pursuing B.Tech at Academy of Technology<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Lives at WestBengal ,India<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
