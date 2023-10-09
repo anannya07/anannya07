@@ -2,7 +2,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right"alt="codegirl"width="400"src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anannya07&label=Profile%20views&color=0e75b6&style=flat" alt="anannya07" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anannya07" alt="anannya07" /></a> </p>
 
