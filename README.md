@@ -3,8 +3,6 @@
 <img align="right"alt="codegirl"width="400"src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anannya07" alt="anannya07" /></a> </p>
-
 - 🌱 I’m currently learning **DSA,Javascript,SQL**
 
 - 📫 How to reach me **anannyaguchait72@gmail.com**
