@@ -38,6 +38,8 @@ Skills:  REACT / JS / HTML / CSS
 <img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github">
 
 </p><br>
+[![An image of @anannya07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anannya07)](https://holopin.io/@anannya07)
+<br>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
