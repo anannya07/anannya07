@@ -48,7 +48,7 @@ const annie = {
   code: [Javascript,  HTML, CSS,  Python, Java],
   tools: [React, HTML,CSS]
  
- challenge: "I am currently focusing on DSA"
+ challenge: "Want to be a Full stack web developer and overall a fantastic human being"
 }
 ```
 
