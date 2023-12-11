@@ -38,8 +38,7 @@ Skills:  REACT / JS / HTML / CSS
 <img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github">
 
 </p><br>
-[![An image of @anannya07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anannya07)](https://holopin.io/@anannya07)
-<br>
+
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -53,8 +52,12 @@ const annie = {
  challenge: "Want to be a Full stack web developer and overall a fantastic human being"
 }
 ```
+### My Holopin Badges....
+<br>
 
-
+[![An image of @anannya07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anannya07)](https://holopin.io/@anannya07)
+<br>
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anannya07)](https://github.com/anuraghazra/github-readme-stats)
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anannya07&show_icons=true)   ![GitHub streak stats](https://streak-stats.demolab.com/?user=anannya07)  
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
