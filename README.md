@@ -4,7 +4,7 @@
 # **Hi there 👋, my name is Anannya**
 
 ## **Aspiring Full Stack web developer**
-<p><em>Pursuing B.Tech at Academy of Technology<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Lives at WestBengal ,India<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Pursuing B.Tech in Computer Science and Engineering at Academy of Technology<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Lives at WestBengal ,India<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 Working on a new me.
