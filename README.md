@@ -1,9 +1,9 @@
 ![Aspiring Full Stack web developer](https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg)
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-###  Hi there 👋, my name is Anannya
+# **Hi there 👋, my name is Anannya**
 
-#### **Aspiring Full Stack web developer**
+## **Aspiring Full Stack web developer**
 <p><em>Pursuing B.Tech at Academy of Technology<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Lives at WestBengal ,India<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -17,11 +17,11 @@ Skills:  REACT / JS / HTML / CSS
 - 👯 I’m looking to collaborate on github 
 - 😄 Pronouns: She/her 
 - ⚡ Fun fact: Is Madam Pallindrome
-#### Connect With me
+### **Connect With me**
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anannya07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anannya-guchait-14447b220/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Anannya656648)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg' alt='geeksforgeeks' height='40'>](https://auth.geeksforgeeks.org/user/anannyagux72k)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/anannyaguchait72)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/anannyaguchait72/)  
 
-#### Tech stack used
+## **Tech stack used**
 <p align="center">
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
@@ -52,7 +52,7 @@ const annie = {
  challenge: "Want to be a Full stack web developer and overall a fantastic human being"
 }
 ```
-### My Holopin Badges....
+## **My Holopin Badges....**
 <br>
 
 [![An image of @anannya07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anannya07)](https://holopin.io/@anannya07)
